@@ -11,8 +11,7 @@ public class Mini {
         l.add("spring");
         l.add("hibernet");
         System.out.println(l);
-        
-        
+       
         
 	}
 }
