@@ -10,6 +10,7 @@ public class Mini {
         l.add("java");
         l.add("spring");
         l.add("hibernet");
+	l.add("html")
         System.out.println(l);     
    }
 }
