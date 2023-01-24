@@ -12,5 +12,7 @@ public class Mini {
         l.add("hibernet");
         System.out.println(l);
         
+        
+        
 	}
 }
