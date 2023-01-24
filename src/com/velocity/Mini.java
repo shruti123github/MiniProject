@@ -13,5 +13,6 @@ public class Mini {
         System.out.println(l);
        
         
+		
 	}
 }
