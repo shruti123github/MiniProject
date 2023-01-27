@@ -13,6 +13,7 @@ public class Mini {
   
         l.add("spring");
 
+		
         System.out.println(l);    
         
 	}
